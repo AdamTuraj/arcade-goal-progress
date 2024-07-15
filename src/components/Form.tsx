@@ -69,8 +69,6 @@ const Form = () => {
       timePercentage,
       hoursToGetBackOnTrack,
     });
-
-    toast.success("Calculated!");
   };
 
   return (
