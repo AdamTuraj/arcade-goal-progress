@@ -17,9 +17,8 @@ const Results = ({
         As of today, the event is <b>{timePercentage.toFixed(2)}%</b> through
       </p>
       <p>
-        Therefore you would need to complete{" "}
-        <b>{hoursToGetBackOnTrack.toFixed(2)}</b> hours per day to reach your
-        goal by the end of the event (August 31st)
+        Therefore you would need to complete <b>{hoursToGetBackOnTrack.toFixed(2)}</b> hours per day or{" "}
+        <b>{(hoursToGetBackOnTrack * 7).toFixed(2)}</b> hours per week to reach your goal by the end of the event (August 31st)
       </p>
     </div>
   );
