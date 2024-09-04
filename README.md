@@ -22,3 +22,7 @@ yarn dev
 ```
 
 If you want to make a change feel free to make a pull request.
+
+## Images
+
+![The calculator in action](https://cloud-clw6aobvw-hack-club-bot.vercel.app/0image.png)
